@@ -1,8 +1,12 @@
 # Portafolio
 
 
+# Area de Especialidad
+Mi área de especialidad es la administración de base de datos Oracle, con mas de 13 años desempeñándome es este rol, el énfasis de las bases de datos lo enfoco en seguridad, disponibilidad, mejora de desempeño entre otros
+Mi área de interés para crecimiento personal y complemento profesional es la Analítica de Datos
 
-Practicas realizadas en NLP 
+
+# Practicas realizadas en NLP 
 
 ### Configuracion de entorno
 https://github.com/RubioDeJesus/NLP_Talleres/blob/master/Taller1Agosto15.docx
