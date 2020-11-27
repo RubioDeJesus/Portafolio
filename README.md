@@ -1,10 +1,10 @@
 # Portafolio
-Proyectos realizados
+
 
 
 Practicas realizadas en NLP 
 
-## Configuracion de entorno
+- [## Configuracion de entorno]
 https://github.com/RubioDeJesus/NLP_Talleres/blob/master/Taller1Agosto15.docx
 ##  Taller 2 - Adquisición de Datos
 https://github.com/RubioDeJesus/NLP_Talleres/blob/master/Taller2_NLP.ipynb
